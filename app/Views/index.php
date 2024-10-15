@@ -13,7 +13,7 @@
   <meta name="description" content="website template">
 
   <!--Bootstrap ================================================== -->
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  
 
   <!--vendor css ================================================== -->
   <link rel="stylesheet" type="text/css" href="css/vendor.css">
